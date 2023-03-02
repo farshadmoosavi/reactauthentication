@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": "farshad",
+      "name": "farshadmoosavi",
+      "password": "1234",
+      "email": "far@gmail.com",
+      "phone": "12344545",
+      "country": "United States",
+      "address": "fwef",
+      "gender": "female"
+    }
+  ]
+}

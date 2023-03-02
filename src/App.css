@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -13,6 +13,10 @@
   }
 }
 
+.top-distance{
+  margin-top: 10rem;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -22,6 +26,29 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.app-check{
+  height: 20px;
+  width: 20px;
+  margin: 1%;
+}
+
+.errmsg{
+  color: red;
+}
+
+.header{
+  width: 100%;
+  background-color: blue;
+  color: #fff;
+  padding: 1%;
+}
+
+a{
+  text-decoration: none !important;
+  color: white;
+  padding: 2px;
 }
 
 .App-link {
